@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://ncomplex.github.io/hebrew/static/css/main.27bea15f.chunk.css",
+    "main.js": "https://ncomplex.github.io/hebrew/static/js/main.821b84a3.chunk.js",
+    "runtime-main.js": "https://ncomplex.github.io/hebrew/static/js/runtime-main.fb704afb.js",
+    "static/js/2.b5b1e631.chunk.js": "https://ncomplex.github.io/hebrew/static/js/2.b5b1e631.chunk.js",
+    "static/js/3.5ac9bb45.chunk.js": "https://ncomplex.github.io/hebrew/static/js/3.5ac9bb45.chunk.js",
+    "index.html": "https://ncomplex.github.io/hebrew/index.html",
+    "static/js/2.b5b1e631.chunk.js.LICENSE.txt": "https://ncomplex.github.io/hebrew/static/js/2.b5b1e631.chunk.js.LICENSE.txt",
+    "static/media/logo192.d5de66ec.png": "https://ncomplex.github.io/hebrew/static/media/logo192.d5de66ec.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb704afb.js",
+    "static/js/2.b5b1e631.chunk.js",
+    "static/css/main.27bea15f.chunk.css",
+    "static/js/main.821b84a3.chunk.js"
+  ]
+}
