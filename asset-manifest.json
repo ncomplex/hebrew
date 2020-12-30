@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://ncomplex.github.io/hebrew/static/css/main.27bea15f.chunk.css",
-    "main.js": "https://ncomplex.github.io/hebrew/static/js/main.edda4876.chunk.js",
+    "main.js": "https://ncomplex.github.io/hebrew/static/js/main.93d7241a.chunk.js",
     "runtime-main.js": "https://ncomplex.github.io/hebrew/static/js/runtime-main.18c7807b.js",
     "static/js/2.3161443a.chunk.js": "https://ncomplex.github.io/hebrew/static/js/2.3161443a.chunk.js",
     "static/js/3.3a997ad1.chunk.js": "https://ncomplex.github.io/hebrew/static/js/3.3a997ad1.chunk.js",
@@ -13,6 +13,6 @@
     "static/js/runtime-main.18c7807b.js",
     "static/js/2.3161443a.chunk.js",
     "static/css/main.27bea15f.chunk.css",
-    "static/js/main.edda4876.chunk.js"
+    "static/js/main.93d7241a.chunk.js"
   ]
 }
